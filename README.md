@@ -15,4 +15,4 @@ Elevate your Roblox chat experience with the Roblox Symbol Sender Script. This p
 To launch the script, simply run the following command in your Roblox game:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realheckersbrother/RobloxSymbolSender/refs/heads/main/RobloxSymbolSenderKeySystem.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realheckersbrother/RobloxSymbolSender/refs/heads/main/RobloxSymbolSender.lua"))()
